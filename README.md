@@ -28,7 +28,7 @@ remove in the middle 1000 elements one-by-one / at once;
 remove at the end 1000 elements one-by-one / at once.
 	Display the execution time of each operation.
 
-	Add an activity indicator for each long-running operation.
+Add an activity indicator for each long-running operation.
 
  - Second screen: operations with a set.
 Add two text fields for user input and buttons for operations with sets.
@@ -53,4 +53,24 @@ Find the last element (“Name9999999”)
 Search for a non-existing element
 	Display the execution time of each operation.
 
-	Add an activity indicator for long-running operations.
+Add an activity indicator for long-running operations.
+
+## Usage
+
+### First screen
+
+
+https://github.com/vova3plv/Collections/assets/156924040/b998bc3d-9a80-4342-ae4f-a25ccd81a657
+
+
+### Second screen
+
+
+https://github.com/vova3plv/Collections/assets/156924040/f86db715-cca7-4d94-b809-10b461c9ed63
+
+
+### Third screen
+
+
+https://github.com/vova3plv/Collections/assets/156924040/79a9b4ec-8c74-425d-b60c-a601bcc589d5
+
